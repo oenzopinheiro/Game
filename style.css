@@ -80,3 +80,9 @@
         right: 100%;
     }
 } 
+
+@media(max-width: 600px) {
+    .button{
+        margin-left: 65px;
+    }
+}
