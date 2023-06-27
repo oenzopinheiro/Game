@@ -84,5 +84,7 @@
 @media(max-width: 600px) {
     .button{
         margin-left: 65px;
-    }
-}
+    } .dino{
+        animation: dino-animation 1s infinite linear;
+    } 
+} 
