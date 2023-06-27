@@ -8,7 +8,7 @@ const jump = () => {
     setTimeout(() => {
 
         human.classList.remove('jump')
-    }, 500)
+    }, 600)
 }
 
 
