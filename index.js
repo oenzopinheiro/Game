@@ -20,7 +20,7 @@ const loop = setInterval(() => {
    const dinoPosition = dino.offsetLeft
    const humanPosition = +window.getComputedStyle(human).bottom.replace('px', '')
 
-   if(dinoPosition <= 120 && dinoPosition > 0 && humanPosition < 60 ) {
+   if(dinoPosition <= 90  && dinoPosition > 0 && humanPosition < 60 ) {
 
     dino.style.animation = 'none'
     dino.style.left = `${humanPosition}px`
