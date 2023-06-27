@@ -18,7 +18,7 @@
     position: absolute;
     bottom: 0;
     width: 80px;
-    animation: dino-animation 1.5s infinite linear;
+    animation: dino-animation 10s infinite linear;
     
 }
 
@@ -29,7 +29,7 @@
 }
 
 .jump {
-    animation: jump 500ms   ease-out;
+    animation: jump 600ms   ease-out;
 } 
  
 .button{
