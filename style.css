@@ -85,6 +85,6 @@
     .button{
         margin-left: 65px;
     } .dino{
-        animation: dino-animation 1s infinite linear;
+        animation: dino-animation 700ms infinite linear;
     } 
 } 
